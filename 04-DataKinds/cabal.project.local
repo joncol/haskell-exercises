@@ -1,0 +1,4 @@
+ignore-project: False
+tests: True
+test-options: "--color=always"
+test-show-details: streaming
